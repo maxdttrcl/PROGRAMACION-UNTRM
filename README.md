@@ -12,13 +12,13 @@ El proyecto tiene como finalidad documentar el aprendizaje y uso de herramientas
 
 📑 Tabla de contenidos
 
-1. "Objetivos" (#-objetivos)
-2. "Herramientas utilizadas" (#-herramientas-utilizadas)
-3. "Contenido del repositorio" (#-contenido-del-repositorio)
-4. "Actividades desarrolladas" (#-actividades-desarrolladas)
-5. "Aprendizajes obtenidos" (#-aprendizajes-obtenidos)
-6. "Conclusiones" (#-conclusiones)
-7. "Autor" (#-autor)
+1. [Objetivos](#-objetivos)
+2. [Herramientas utilizadas](#-herramientas-utilizadas)
+3. [Contenido del repositorio](#-contenido-del-repositorio)
+4. [Actividades desarrolladas](#-actividades-desarrolladas)
+5. [Aprendizajes obtenidos](#-aprendizajes-obtenidos)
+6. [Conclusiones](#-conclusiones)
+7. [Autor](#-autor)
 
 🎯 Objetivos
 
