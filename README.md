@@ -1,42 +1,70 @@
-📚 PROGRAMACIÓN - UNTRM
+📚 PROGRAMACIÓN | UNTRM
 
-Repositorio de aprendizaje de programación
+Repositorio académico de prácticas y aprendizaje
 
-👨‍💻 Introducción
+---
 
-El presente repositorio tiene como finalidad registrar las actividades y prácticas desarrolladas en el curso de Programación, utilizando herramientas como Linux, Git y GitHub.
+📌 Descripción
+
+Este repositorio reúne las actividades, prácticas y conocimientos adquiridos durante el desarrollo del curso de Programación de la Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM).
+
+El proyecto tiene como finalidad documentar el aprendizaje y uso de herramientas tecnológicas relacionadas con la programación y la gestión de proyectos.
+
+📑 Tabla de contenidos
+
+1. "Objetivos" (#-objetivos)
+2. "Herramientas utilizadas" (#-herramientas-utilizadas)
+3. "Contenido del repositorio" (#-contenido-del-repositorio)
+4. "Actividades desarrolladas" (#-actividades-desarrolladas)
+5. "Aprendizajes obtenidos" (#-aprendizajes-obtenidos)
+6. "Conclusiones" (#-conclusiones)
+7. "Autor" (#-autor)
 
 🎯 Objetivos
 
-- Aprender el manejo básico del sistema operativo Linux.
-- Conocer y utilizar comandos de terminal.
-- Crear, modificar y administrar archivos y directorios.
-- Comprender el funcionamiento de Git y GitHub.
-- Practicar el control de versiones.
+- Desarrollar conocimientos básicos de programación.
+- Familiarizarse con el entorno Linux.
+- Aprender a utilizar Git y GitHub.
+- Gestionar archivos y repositorios digitales.
+- Fortalecer las habilidades tecnológicas.
 
 🛠️ Herramientas utilizadas
 
-- Linux: sistema operativo utilizado para las prácticas.
-- Git: herramienta para el control de versiones.
-- GitHub: plataforma para almacenar y compartir proyectos.
+Linux (Ubuntu)| Entorno de trabajo para prácticas.
+Terminal| Interfaz para ejecutar comandos.
+Git| Sistema de control de versiones.
+GitHub| Plataforma de alojamiento de repositorios.
 
-📂 Actividades realizadas
+📂 Contenido del repositorio
 
-1. Creación de una cuenta en GitHub.
-2. Creación de un repositorio.
-3. Práctica de comandos básicos de Linux.
-4. Creación y administración de archivos.
-5. Introducción al uso de Git.
-6. Elaboración de este archivo README.md.
+El repositorio está destinado a organizar los siguientes contenidos:
 
-📌 Conclusión
+- Prácticas de programación.
+- Introducción al entorno Linux.
+- Administración de archivos y directorios.
+- Manejo de Git y GitHub.
+- Documentación de actividades académicas.
 
-El desarrollo de estas actividades permite adquirir conocimientos básicos sobre Linux, Git y GitHub, herramientas importantes para el aprendizaje de programación y el desarrollo de proyectos tecnológicos.
+💻 Actividades desarrolladas
 
-✍️ Autor
+- Creación de una cuenta en GitHub.
+- Creación y configuración de un repositorio.
+- Exploración del entorno de trabajo.
+- Prácticas de administración de archivos.
+- Elaboración de documentación mediante README.md.
+
+📖 Aprendizajes obtenidos
+
+El desarrollo de las prácticas permite comprender la importancia de las herramientas de programación, el manejo de entornos de trabajo y el control de versiones para organizar proyectos tecnológicos.
+
+📝 Conclusiones
+
+El uso de Linux, Git y GitHub representa una base importante para el aprendizaje de programación. Estas herramientas facilitan la organización, documentación y gestión de proyectos académicos.
+
+👨‍💻 Autor
 
 Max Dett 
 
-Estudiante de Ingeniería de la Energía.
+Estudiante de Ingeniería de la Energía
 
-Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM)
+Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM).
