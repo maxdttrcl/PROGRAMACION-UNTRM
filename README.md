@@ -10,22 +10,6 @@ Este repositorio reúne las actividades, prácticas y conocimientos adquiridos d
 
 El proyecto tiene como finalidad documentar el aprendizaje y uso de herramientas tecnológicas relacionadas con la programación y la gestión de proyectos.
 
-📑 Tabla de contenidos
-
-## 🎯 Objetivos
-
-## 🛠️ Herramientas utilizadas
-
-## 📂 Contenido del repositorio
-
-## 💻 Actividades desarrolladas
-
-## 📖 Aprendizajes obtenidos
-
-## 📝 Conclusiones
-
-## 👨‍💻 Autor
-
 🎯 Objetivos
 
 - Desarrollar conocimientos básicos de programación.
